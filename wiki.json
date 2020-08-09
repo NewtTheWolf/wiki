@@ -1,12 +1,12 @@
 {
    "wiki": [
-       {
-           "key": "omv",
-           "id": "1"
-       },
-       {
-           "key": "node-red",
-           "id": "2"
-       }
+        {
+        "key": "omv",
+        "id": "1"
+    },
+    {
+        "key": "node-red",
+        "id": "2"
+    }
    ]
 }
