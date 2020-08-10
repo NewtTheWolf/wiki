@@ -7,6 +7,26 @@
         "`filecloud`",
         "`rtorrent`",
         "`ubooquity`",
-        "`traefik`"
+        "`traefik`",
+        "`grocy`",
+        "`krusader`",
+        "`muximux`",
+        "`watchtower`",
+        "`doublecommander`",
+        "`mstream`",
+        "`qbittorrentvpn`",
+        "`transmissionvpn`",
+        "`openvpn`",
+        "`handbrake`",
+        "`rdesktop`",
+        "`speedtest`",
+        "`boinc`",
+        "`dashmachine`",
+        "`traefikcloudflare`",
+        "`cloudcommander`",
+        "`dockerytdl`",
+        "`nextcloud`",
+        "`freshrss`",
+        "`minecraftserver`"
     ]
 }
