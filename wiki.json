@@ -6,8 +6,9 @@
         "post": "https://dbte.ch/omv5onpc"
     },
     {
-        "key": "node-red",
-        "id": "12Y04ERF4Uc"
+        "key": "nodered",
+        "id": "12Y04ERF4Uc",
+        "post": "https://dbte.ch/nodered"
     }
    ]
 }
