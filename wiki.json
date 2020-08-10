@@ -9,6 +9,36 @@
         "key": "nodered",
         "id": "12Y04ERF4Uc",
         "post": "nodered"
+    },
+    {
+        "key": "taisun",
+        "id": "TAojb9ANhok",
+        "post": "taisunmarketplace"
+    },
+    {
+        "key": "calibre",
+        "id": "oHC6J_aN4eQ",
+        "post": "calibreserver"
+    },
+    {
+        "key": "filecloud",
+        "id": "CCGMc6iheWM",
+        "post": "filecloud"
+    },
+    {
+        "key": "rtorrent",
+        "id": "Q5YJl5yNj6k",
+        "post": "rtorrent"
+    },
+    {
+        "key": "ubooquity",
+        "id": "r-xnLe6AfeM",
+        "post": "ubooquity"
+    },
+    {
+        "key": "traefik",
+        "id": "N5EmluXSbEg",
+        "post": "traefik"
     }
    ]
 }
