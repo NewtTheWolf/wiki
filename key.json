@@ -1,6 +1,12 @@
 {
     "key": [
-        "`omv`",
-        "`nodered`"
+        "omv",
+        "nodered",
+        "taisun",
+        "calibre",
+        "filecloud",
+        "rtorrent",
+        "ubooquity",
+        "traefik"
     ]
 }
