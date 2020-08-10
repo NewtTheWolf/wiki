@@ -9,6 +9,146 @@
         "key": "nodered",
         "id": "12Y04ERF4Uc",
         "post": "nodered"
-    }
+    },
+    {
+        "key": "taisun",
+        "id": "TAojb9ANhok",
+        "post": "taisunmarketplace"
+    },
+    {
+        "key": "calibre",
+        "id": "oHC6J_aN4eQ",
+        "post": "calibreserver"
+    },
+    {
+        "key": "filecloud",
+        "id": "CCGMc6iheWM",
+        "post": "filecloud"
+    },
+    {
+        "key": "rtorrent",
+        "id": "Q5YJl5yNj6k",
+        "post": "rtorrent"
+    },
+    {
+        "key": "ubooquity",
+        "id": "r-xnLe6AfeM",
+        "post": "ubooquity"
+    },
+    {
+        "key": "traefik",
+        "id": "N5EmluXSbEg",
+        "post": "traefik"
+    },
+    {
+        "key": "grocy",
+        "id": "eYR_WMXhP6E",
+        "post": "grocy"
+    },
+    {
+        "key": "krusader",
+        "id": "gNCOA8lYjPY",
+        "post": "krusader"
+    },
+    {
+        "key": "muximux",
+        "id": "86_0lhG9TAw",
+        "post": "muximux"
+    },
+    {
+        "key": "watchtower",
+        "id": "nMPTen3NHd0",
+        "post": "watchtower"
+    },
+    {
+        "key": "doublecommander",
+        "id": "Ad9afPzM1wY",
+        "post": "doublecommander"
+    },
+    {
+        "key": "mstream",
+        "id": "9lERIB3mL7Y",
+        "post": "mstream"
+    },
+    {
+        "key": "qbittorrentvpn",
+        "id": "5y1z_I_HnoA",
+        "post": "qbittorrentvpn"
+    },
+    {
+        "key": "transmissionvpn",
+        "id": "IXyc8xGbqRY",
+        "post": "transmissionvpn"
+    },
+    {
+        "key": "openvpn",
+        "id": "kLy7RXnkDu8",
+        "post": "openvpn"
+    },
+    {
+        "key": "handbrake",
+        "id": "yKww_gg1fVI",
+        "post": "handbrake"
+    },
+    {
+        "key": "rdesktop",
+        "id": "jt_C3cStfAA",
+        "post": "rdesktop"
+    },
+    {
+        "key": "speedtest",
+        "id": "s19TXATmFME",
+        "post": "speedtest"
+    },
+    {
+        "key": "boinc",
+        "id": "FXYxDnQ85ek",
+        "post": "boinc"
+    },
+    {
+        "key": "dashmachine",
+        "id": "3CFmCNSqeeg",
+        "post": "dashmachine"
+    },
+    {
+        "key": "traefikcloudflare",
+        "id": "b83S_N1kkJM",
+        "post": "traefikcloudflare"
+    },
+    {
+        "key": "cloudcommander",
+        "id": "6I2xWZIk6kU",
+        "post": "cloudcommander"
+    },
+    {
+        "key": "dockerytdl",
+        "id": "tuPJD1QN2I0",
+        "post": "dockerytdl"
+    },
+    {
+        "key": "nextcloud",
+        "id": "4GQ0alIdm7I",
+        "post": "nextcloud"
+    },
+    {
+        "key": "freshrss",
+        "id": "FTNYaqfp2JU",
+        "post": "freshrss"
+    },
+    {
+        "key": "minecraftserver",
+        "id": "zegNYtCzC5E",
+        "post": "minecraftserver"
+    },
+    {
+        "key": "minecraftserver",
+        "id": "zegNYtCzC5E",
+        "post": "minecraftserver"
+    },
+    {
+        "key": "minecraftserver",
+        "id": "zegNYtCzC5E",
+        "post": "minecraftserver"
+    },
    ]
 }
